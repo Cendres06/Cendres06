@@ -2,7 +2,6 @@
 - 👀 I’m interested in computational humanities, video games, LibreOffice.
 - 🌱 I’m currently learning GitHUB.
 - 💞️ I’m looking to collaborate on life as human beings in a damaged yet hopeful society.
-- 📫 How to reach me : pls don't
 
 <!---
 Cendres06/Cendres06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
